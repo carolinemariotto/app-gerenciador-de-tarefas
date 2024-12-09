@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "tailwindcss": "^3.4.15"
+  },
+  "name": "app4",
+  "version": "1.0.0",
+  "main": "tailwind.config.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
